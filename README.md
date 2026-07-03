@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
