@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
