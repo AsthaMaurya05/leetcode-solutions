@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0525-contiguous-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
