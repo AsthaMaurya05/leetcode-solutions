@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1518-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
