@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0066-plus-one) |
+| [1137-n-th-tribonacci-number](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1518-water-bottles) |
 ## Bit Manipulation
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1518-water-bottles) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
