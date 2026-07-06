@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
