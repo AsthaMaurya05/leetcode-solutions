@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AsthaMaurya05/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
